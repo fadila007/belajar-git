@@ -1,6 +1,6 @@
 # Instalasi Git Bash
 1. Jika Aplikasi Git Bash belum ada di laptop kalian, maka kalian bisa menginstal aplikasi Git Bash di google dengan mengetik `Git scm` atau bisa klik link ini : https://git-scm.com/
-![[assets/download_git.png|500x350]]
+![MYSQL](assets/download_git.png)
 
 2. Setelah itu klik Git Hub yang telah di instal, kalian klik tombol next saja sampai terlihat tampilan Installing1. 
 # Membuat Repository 
